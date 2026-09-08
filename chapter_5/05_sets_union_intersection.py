@@ -18,4 +18,4 @@ s={1,5,32,4,5}
 
 print(s.pop()) #output will be an arbitary element from the set s 
 s.clear()
-print(s)
+print(s) #output will be an empty set
